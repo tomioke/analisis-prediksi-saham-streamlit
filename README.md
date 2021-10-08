@@ -1,2 +1,2 @@
-# analisis-prediksi-saham-streamlit
+# Aplikasi Prediksi Harga Saham
 
